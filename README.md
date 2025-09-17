@@ -140,4 +140,3 @@ npm run dev
 * The dataset is synthetic. To change its behavior, adjust parameters in `generate_dataset.py`.
 * Rerun the notebook after changes to refresh exports.
 ---
-Let me know if you want this turned into a markdown `.md` file or formatted for HTML/README use.
