@@ -53,7 +53,7 @@ mkdir -p public/data
 Copy-Item ..\data\exports\*.json public\data -Force
 npm run dev
 ```
-Visit: `http://localhost:3000`
+Visit: https://dashboard-ook1gjciv-jayas-projects-1dd63b8b.vercel.app/
 ---
 **Dashboard Guide**
 * Overview: key averages (score, skills, engagement)
