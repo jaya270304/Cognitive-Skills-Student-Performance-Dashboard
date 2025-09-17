@@ -1,4 +1,6 @@
 **Cognitive Skills & Student Performance Dashboard**
+
+**Name: Irugu Jayasree**
 ---
 **Overview**
 * Synthetic student dataset: cognitive skills and performance
